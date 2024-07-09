@@ -1,4 +1,4 @@
-# Calyo - MSc Robotics Repository
+# Calyo Documentation
 
 The code and software for to run and capture data for the Calyo sensor.
 
